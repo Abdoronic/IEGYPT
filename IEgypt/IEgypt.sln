@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IEgypt", "IEgypt\IEgypt.csproj", "{AEA125CE-FD20-49E9-80ED-F2F7EAF4FF50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IEgypt.Tests", "IEgypt.Tests\IEgypt.Tests.csproj", "{FA5A6DCE-9D2F-419D-AADE-A33BA6639392}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEA125CE-FD20-49E9-80ED-F2F7EAF4FF50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEA125CE-FD20-49E9-80ED-F2F7EAF4FF50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEA125CE-FD20-49E9-80ED-F2F7EAF4FF50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEA125CE-FD20-49E9-80ED-F2F7EAF4FF50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA5A6DCE-9D2F-419D-AADE-A33BA6639392}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA5A6DCE-9D2F-419D-AADE-A33BA6639392}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA5A6DCE-9D2F-419D-AADE-A33BA6639392}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA5A6DCE-9D2F-419D-AADE-A33BA6639392}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
